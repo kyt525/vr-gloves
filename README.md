@@ -34,6 +34,7 @@ Protoboard implementation:
 ![Perfboard front]/images/...)
 ![Perfboard back]/images/...)
 
-##Youtube video
-[link to youtube video](ttps://youtu.be/0L5U58G-sE0)
+## Youtube video
+
+[link to youtube video](https://youtu.be/0L5U58G-sE0)
 [![VR-Gloves youtube video](/images/gloves-video.jpg)](https://youtu.be/0L5U58G-sE0)
