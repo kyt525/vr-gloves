@@ -1,4 +1,4 @@
-# vr-gloves
+# VR-Gloves
 
 UIUC Pulse 2022 hardware competition - Team Little Giants (Ayush Garg, Binh-Minh Nguyen, Kathryn Thompson, Ramsey van der Meer)
 
@@ -21,7 +21,7 @@ One of the biggest barriers that we faced was integrating the EKG into the proje
 
 Looking back at the project, our biggest takeaway would be learning how to work with stress gauges and working with the relevant Arduino libraries. 
 
-## The glove
+## The Glove
 ![Glove palm side](/images/gloves-palm.pdf)
 ![Gloves outside](/images/gloves-outside.pdf)
 
@@ -32,3 +32,6 @@ Schematic:
 Protoboard implementation:
 ![Perfboard front]/images/...)
 ![Perfboard back]/images/...)
+
+
+[![VR-Gloves youtube video](/images/gloves-video.jpg)](https://youtu.be/0L5U58G-sE0)
