@@ -12,8 +12,6 @@ Diving into the technicals of this project we use EKGs and strain gauges as the 
 
 We tested our ideas’ functionality by assembling it onto a breadboard and then proceeded to make a final product on a protoboard.
 
-(Show picture of the actual product. <— will take pictures of protoboard and of glove that is on a hand)
-
 Based on the input registered by the analog input pins, we created a program that translates the movements of different fingers into game controls.
 
 One of the biggest barriers that we faced was integrating the EKG into the project. There seemed to be a significant delay between the input and the output. Our first intuition, that this was due to a hardware issue stood corrected. We soon came realize that it was indeed the muscle that took a long time to fully relax. Despite directing a significant portion of our efforts towards alleviating this issue, we couldn’t get a reliable enough output signal to work with and so our project remains in the works.
@@ -29,10 +27,6 @@ Looking back at the project, our biggest takeaway would be learning how to work 
 
 Schematic:
 ![Schematic](/images/schematic-screenshot.png)
-
-Protoboard implementation:
-![Perfboard front]/images/...)
-![Perfboard back]/images/...)
 
 ## Youtube video
 
